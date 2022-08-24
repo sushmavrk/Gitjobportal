@@ -6,6 +6,7 @@ public class Sample2 {
 	{
 		System.out.println("git hub");
 		System.out.println("local repository");
+		System.out.println("aythu madum");
 	}
 
 }
